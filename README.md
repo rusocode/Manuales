@@ -1,1 +1,1 @@
-_Ir a la [wiki](https://github.com/rusocode/Manuales/wiki)_
+_[wiki](https://github.com/rusocode/Manuales/wiki)_
