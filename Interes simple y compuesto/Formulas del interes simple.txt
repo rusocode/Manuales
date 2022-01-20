@@ -1,0 +1,101 @@
+Abreviaciones:
+Capital = C
+Interes = I
+Tasa de interes = i
+Tiempo = t
+Valor final = Vf
+
+Formulas (si se desconoce dos datos, entonces la formula no sirve):
+Vf = C + I
+I = C . i . t
+Vf = C (1 + i . t)
+
+*Siempre se pasa el tiempo a lo que indique la tasa de interes.
+____________________
+
+...calcular el interes
+Supongamos que me prestaron un capital de $50000 con una tasa de interes del 2% mensual ¿Cuantos intereses tengo que pagar despues de 1 mes?
+
+C = $50000
+I = ?
+i = 2% = 2/100 = 0,02
+t = 1 mes
+
+I = C . i . t
+I = 50000 . 0,02 . 1
+I = 1000
+
+R) El interes que tengo que pagar despues de 1 mes es de $1000.
+____________________
+
+...calcular el valor final
+Una persona invierte $500000 durante 9 meses en una cuenta en la que le pagan el 1,5% simple mensual ¿Cuanto podra retirar una vez cumplido el tiempo?
+
+C = $500000
+I = ?
+i = 1,5% = 1,5/100 = 0,015
+t = 9 meses
+Vf = ?
+
+Vf = C (1 + i . t)
+Vf = 500000 (1 + 0,015 . 9)
+Vf = 500000 (1 + 0,135)
+Vf = 500000 . 1,135
+Vf = 567500
+
+R) Una vez cumplido los 9 meses podra retirar $567500.
+____________________
+
+...calcular la tasa de interes
+Una entidad le presta a una persona $1500000 y al cabo de un mes debe devolver $1545000. Calcular el valor de los intereses y la tasa de interes pagada.
+
+C = $1500000
+I = $45000 (Vf - C)
+i = ?
+t = 1 mes
+Vf = $1545000
+
+I = C . i . t
+I / C . t = i
+45000 / 1500000 . 1 = 0,03 =  0,03 * 100 = 3
+
+R) La tasa de interes mensual es del 3%.
+____________________
+
+...calcular el tiempo
+Un banco paga el 6% de interes simple trimestral. Si hoy deposito $5000000 ¿Cuanto tiempo debo esperar si quiero retirar cuando haya acumulado un total de $8000000?
+
+C = $5000000
+I = $3000000
+i = 6% trimestral
+t = ?
+Vf = $8000000
+
+Se despeja el tiempo
+I = C . i . t (pasa el I a dividir)
+I / C . t = t
+
+t = I / C . i
+t = 3000000 / 5000000 . 0,06
+t = 3000000 / 300000
+t = 10
+
+R) Debo esperar 10 trimestres (2,5 años).
+____________________
+
+¿Que capital necesito colocar en una cuenta que paga el 20% simple anual para producir un interes de $12000000 en un periodo de 4 años?
+
+C = ?
+I = $12000000
+i = 20% anual
+t = 4 años
+
+Se despeja el capital
+I = C . i . t
+I / i . t = C
+
+C = 12000000 / 0,2 . 4
+C = 12000000 / 0,8
+C = 15000000
+
+R) Necesito colocar 15000000 para poder producir 12000000 de intereses en 4 años.

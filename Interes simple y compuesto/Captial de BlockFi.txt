@@ -1,0 +1,17 @@
+¿Que capital necesito colocar en la plataforma BlockFi que paga el 8,25% compuesto anual (APY) para 
+producir un interes de $4768 al año?
+
+C = ?
+I = $4768
+i = 8,25% anual = 0,0825 (tasa de rendimiento real que se ganara en un año)
+t = 1 año
+
+Se despeja el capital
+I = C . i . t
+I / i . t = C
+
+C = 4768 / (0.0825)^1
+C = 4768 / 0.0825
+C = 57793
+
+R) $57793 necesito colocar en la plataforma BlockFi para producir un interes de $4768 al año.

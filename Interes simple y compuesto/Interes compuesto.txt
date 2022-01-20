@@ -1,0 +1,30 @@
+Es el interes que se genera en cada periodo al agregar al capital incial los intereses del periodo, generando un nuevo capital 
+sobre el cual en el siguiente periodo se calcula un nuevo interes.
+
+A diferencia del interes simple, en el interes compuesto el capital cambia en cada periodo. Es decir que los intereses se
+acumulan a la cuenta, por lo tanto en el proximo periodo el interes se va a calcular sobre el nuevo capital obteniendo
+un valor final diferente al que se calcula en el interes simple.
+
+Ejemplo
+Me prestan un capital de $100000 con una tasa del 10% anual en donde los voy a tener que devolver de aca a 3 años.
+
+Capital $100000, i = 10% anual, tiempo =  3 años
+
+Año 1		I	Vf
+C = 100000	10000	110000
+
+Año 2
+C = 110000	11000	121000
+
+Año 3
+C = 121000	12100	133100
+
+Observe como en cada año el capital cambia ya que se le agregan los intereses.
+
+Otra diferencia con respecto al interes simple, es que el interes va cambiando en cada periodo.
+
+Tambien es importante aclarar que cuando no se aclara que tipo de interes es, entonces el interes es compuesto.
+
+El interes compuesto se suele escribir usando la "tasa efectiva" o "EA (efectivo anual)".
+
+
