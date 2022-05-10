@@ -1,0 +1,10 @@
+<code_scheme name="Default" version="173">
+  <JavaCodeStyleSettings>
+    <option name="ENABLE_JAVADOC_FORMATTING" value="false" />
+  </JavaCodeStyleSettings>
+  <codeStyleSettings language="JAVA">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
