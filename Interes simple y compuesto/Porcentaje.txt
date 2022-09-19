@@ -1,5 +1,0 @@
-Proporcionalidad de una parte respecto del total.
-
-Convirtiendo el porcentaje a decimal:
-25% = 25/100 = 0,25
-18% = 18/100 = 0,18

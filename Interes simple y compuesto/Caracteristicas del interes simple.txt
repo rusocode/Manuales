@@ -1,3 +1,0 @@
-- El interes NO se acumula al capital, generalmente se paga periodo a periodo.
-- Los intereses siempre se aplican sobre el mismo capital.
-- El interes siempre sera el mismo.
